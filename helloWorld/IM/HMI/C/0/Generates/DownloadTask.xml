@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DownloadTask>
+  <ProjectInfo
+    DeviceVersion="14.0.1.0"
+    CreationTime="2020-03-17 06:03:02 (UTC)"
+    Runtime="COLORADO"
+    RtProjectName="helloWorld.PC-System_1[SIMATIC PC station - WinCC RT Advanced]"
+    RtProjectFolderName="helloWorld.PC-System_1[SIMATIC PC station - WinCC RT Advanced]"
+    DeviceType="PC-OP"
+    DisplayOrientation="0"
+    RTReleaseNo="14.0.1.0"
+    ImageReleaseNo="14.0.1.0"
+    RTCV="14.0.1.0"
+    PRCV="14.0.1.0"
+    FirmwareFileName=""
+    RuntimeFileName=""
+    RuntimeAddonFolderName="" />
+  <FullDownload>pdata.fwc</FullDownload>
+  <FullDownload
+    type="ADMINDATA">pdata.pwx</FullDownload>
+  <FullDownload>pdata.tfz</FullDownload>
+  <FullDownload>ProjectSettings.hsf</FullDownload>
+</DownloadTask>
